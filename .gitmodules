@@ -1,0 +1,9 @@
+[submodule "Django"]
+	path = Django
+	url = git@github.com:Bvlgex/Django.git
+[submodule "React"]
+	path = React
+	url = git@github.com:Bvlgex/React.git
+[submodule "Go"]
+	path = Go
+	url = git@github.com:Bvlgex/Go.git
